@@ -62,7 +62,7 @@ body{
 
 .contain{
 	position: relative;
-	width: 980px;
+	width: 1120px;
 	margin: 0 auto;
 	top: 100px;
 }
@@ -115,7 +115,7 @@ header nav ul li a:hover{
 section.main{
 	position: relative;
 	width: 100%;
-	min-height: 620px;
+	min-height: 650px;
 	overflow: auto;
 	background-color: white;
 	padding: 0 0 100px 0;
